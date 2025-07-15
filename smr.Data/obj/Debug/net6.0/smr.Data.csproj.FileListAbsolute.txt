@@ -1,0 +1,119 @@
+Y:\הנדסת תוכנה תשפה\מיכל רוט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.AssemblyReference.cache
+Y:\הנדסת תוכנה תשפה\מיכל רוט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.GeneratedMSBuildEditorConfig.editorconfig
+Y:\הנדסת תוכנה תשפה\מיכל רוט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.AssemblyInfoInputs.cache
+Y:\הנדסת תוכנה תשפה\מיכל רוט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.AssemblyInfo.cs
+Y:\הנדסת תוכנה תשפה\מיכל רוט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.CoreCompileInputs.cache
+Y:\הנדסת תוכנה תשפה\מיכל רוט\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.deps.json
+Y:\הנדסת תוכנה תשפה\מיכל רוט\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.runtimeconfig.json
+Y:\הנדסת תוכנה תשפה\מיכל רוט\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.dll
+Y:\הנדסת תוכנה תשפה\מיכל רוט\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.pdb
+Y:\הנדסת תוכנה תשפה\מיכל רוט\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Core.dll
+Y:\הנדסת תוכנה תשפה\מיכל רוט\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Core.pdb
+Y:\הנדסת תוכנה תשפה\מיכל רוט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.CopyComplete
+Y:\הנדסת תוכנה תשפה\מיכל רוט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.dll
+Y:\הנדסת תוכנה תשפה\מיכל רוט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\refint\smr.Data.dll
+Y:\הנדסת תוכנה תשפה\מיכל רוט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.pdb
+Y:\הנדסת תוכנה תשפה\מיכל רוט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.genruntimeconfig.cache
+Y:\הנדסת תוכנה תשפה\מיכל רוט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\ref\smr.Data.dll
+Y:\הנדסת תוכנה תשפה\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.deps.json
+Y:\הנדסת תוכנה תשפה\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.runtimeconfig.json
+Y:\הנדסת תוכנה תשפה\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.dll
+Y:\הנדסת תוכנה תשפה\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.pdb
+Y:\הנדסת תוכנה תשפה\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Core.dll
+Y:\הנדסת תוכנה תשפה\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Core.pdb
+Y:\הנדסת תוכנה תשפה\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.AssemblyReference.cache
+Y:\הנדסת תוכנה תשפה\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.GeneratedMSBuildEditorConfig.editorconfig
+Y:\הנדסת תוכנה תשפה\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.AssemblyInfoInputs.cache
+Y:\הנדסת תוכנה תשפה\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.AssemblyInfo.cs
+Y:\הנדסת תוכנה תשפה\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.CoreCompileInputs.cache
+Y:\הנדסת תוכנה תשפה\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.CopyComplete
+Y:\הנדסת תוכנה תשפה\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.dll
+Y:\הנדסת תוכנה תשפה\פרוקיט SMR\smr.Data\obj\Debug\net6.0\refint\smr.Data.dll
+Y:\הנדסת תוכנה תשפה\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.pdb
+Y:\הנדסת תוכנה תשפה\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.genruntimeconfig.cache
+Y:\הנדסת תוכנה תשפה\פרוקיט SMR\smr.Data\obj\Debug\net6.0\ref\smr.Data.dll
+C:\Users\moshe\Desktop\תכנות שנה ב\api.web\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.deps.json
+C:\Users\moshe\Desktop\תכנות שנה ב\api.web\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.runtimeconfig.json
+C:\Users\moshe\Desktop\תכנות שנה ב\api.web\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.dll
+C:\Users\moshe\Desktop\תכנות שנה ב\api.web\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.pdb
+C:\Users\moshe\Desktop\תכנות שנה ב\api.web\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Core.dll
+C:\Users\moshe\Desktop\תכנות שנה ב\api.web\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Core.pdb
+C:\Users\moshe\Desktop\תכנות שנה ב\api.web\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.AssemblyReference.cache
+C:\Users\moshe\Desktop\תכנות שנה ב\api.web\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moshe\Desktop\תכנות שנה ב\api.web\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.AssemblyInfoInputs.cache
+C:\Users\moshe\Desktop\תכנות שנה ב\api.web\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.AssemblyInfo.cs
+C:\Users\moshe\Desktop\תכנות שנה ב\api.web\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.CoreCompileInputs.cache
+C:\Users\moshe\Desktop\תכנות שנה ב\api.web\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.CopyComplete
+C:\Users\moshe\Desktop\תכנות שנה ב\api.web\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.dll
+C:\Users\moshe\Desktop\תכנות שנה ב\api.web\פרוקיט SMR\smr.Data\obj\Debug\net6.0\refint\smr.Data.dll
+C:\Users\moshe\Desktop\תכנות שנה ב\api.web\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.pdb
+C:\Users\moshe\Desktop\תכנות שנה ב\api.web\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.genruntimeconfig.cache
+C:\Users\moshe\Desktop\תכנות שנה ב\api.web\פרוקיט SMR\smr.Data\obj\Debug\net6.0\ref\smr.Data.dll
+Y:\הנדסת תוכנה תשפה\ריקי פרויקטטט\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.deps.json
+Y:\הנדסת תוכנה תשפה\ריקי פרויקטטט\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.runtimeconfig.json
+Y:\הנדסת תוכנה תשפה\ריקי פרויקטטט\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.dll
+Y:\הנדסת תוכנה תשפה\ריקי פרויקטטט\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.pdb
+Y:\הנדסת תוכנה תשפה\ריקי פרויקטטט\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Core.dll
+Y:\הנדסת תוכנה תשפה\ריקי פרויקטטט\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Core.pdb
+Y:\הנדסת תוכנה תשפה\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.AssemblyReference.cache
+Y:\הנדסת תוכנה תשפה\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.GeneratedMSBuildEditorConfig.editorconfig
+Y:\הנדסת תוכנה תשפה\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.AssemblyInfoInputs.cache
+Y:\הנדסת תוכנה תשפה\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.AssemblyInfo.cs
+Y:\הנדסת תוכנה תשפה\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.CoreCompileInputs.cache
+Y:\הנדסת תוכנה תשפה\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.CopyComplete
+Y:\הנדסת תוכנה תשפה\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.dll
+Y:\הנדסת תוכנה תשפה\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\refint\smr.Data.dll
+Y:\הנדסת תוכנה תשפה\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.pdb
+Y:\הנדסת תוכנה תשפה\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.genruntimeconfig.cache
+Y:\הנדסת תוכנה תשפה\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\ref\smr.Data.dll
+Y:\הנדסת תוכנה תשפה\שונות\ריקי פרויקטטט\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.deps.json
+Y:\הנדסת תוכנה תשפה\שונות\ריקי פרויקטטט\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.runtimeconfig.json
+Y:\הנדסת תוכנה תשפה\שונות\ריקי פרויקטטט\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.dll
+Y:\הנדסת תוכנה תשפה\שונות\ריקי פרויקטטט\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.pdb
+Y:\הנדסת תוכנה תשפה\שונות\ריקי פרויקטטט\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Core.dll
+Y:\הנדסת תוכנה תשפה\שונות\ריקי פרויקטטט\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Core.pdb
+Y:\הנדסת תוכנה תשפה\שונות\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.AssemblyReference.cache
+Y:\הנדסת תוכנה תשפה\שונות\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.GeneratedMSBuildEditorConfig.editorconfig
+Y:\הנדסת תוכנה תשפה\שונות\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.AssemblyInfoInputs.cache
+Y:\הנדסת תוכנה תשפה\שונות\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.AssemblyInfo.cs
+Y:\הנדסת תוכנה תשפה\שונות\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.CoreCompileInputs.cache
+Y:\הנדסת תוכנה תשפה\שונות\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.dll
+Y:\הנדסת תוכנה תשפה\שונות\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\refint\smr.Data.dll
+Y:\הנדסת תוכנה תשפה\שונות\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.pdb
+Y:\הנדסת תוכנה תשפה\שונות\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.genruntimeconfig.cache
+Y:\הנדסת תוכנה תשפה\שונות\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\ref\smr.Data.dll
+Y:\הנדסת תוכנה תשפה\שונות\ריקי פרויקטטט\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.CopyComplete
+C:\Users\moshe\Desktop\תכנות שנה ב\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.AssemblyReference.cache
+C:\Users\moshe\Desktop\תכנות שנה ב\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moshe\Desktop\תכנות שנה ב\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.AssemblyInfoInputs.cache
+C:\Users\moshe\Desktop\תכנות שנה ב\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.AssemblyInfo.cs
+C:\Users\moshe\Desktop\תכנות שנה ב\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.CoreCompileInputs.cache
+C:\Users\moshe\Desktop\תכנות שנה ב\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.dll
+C:\Users\moshe\Desktop\תכנות שנה ב\פרוקיט SMR\smr.Data\obj\Debug\net6.0\refint\smr.Data.dll
+C:\Users\moshe\Desktop\תכנות שנה ב\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.pdb
+C:\Users\moshe\Desktop\תכנות שנה ב\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.deps.json
+C:\Users\moshe\Desktop\תכנות שנה ב\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.runtimeconfig.json
+C:\Users\moshe\Desktop\תכנות שנה ב\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.dll
+C:\Users\moshe\Desktop\תכנות שנה ב\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.pdb
+C:\Users\moshe\Desktop\תכנות שנה ב\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Core.dll
+C:\Users\moshe\Desktop\תכנות שנה ב\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Core.pdb
+C:\Users\moshe\Desktop\תכנות שנה ב\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.CopyComplete
+C:\Users\moshe\Desktop\תכנות שנה ב\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.genruntimeconfig.cache
+C:\Users\moshe\Desktop\תכנות שנה ב\פרוקיט SMR\smr.Data\obj\Debug\net6.0\ref\smr.Data.dll
+C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.deps.json
+C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.runtimeconfig.json
+C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.dll
+C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Data.pdb
+C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Core.dll
+C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\bin\Debug\net6.0\smr.Core.pdb
+C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.AssemblyReference.cache
+C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.AssemblyInfoInputs.cache
+C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.AssemblyInfo.cs
+C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.CoreCompileInputs.cache
+C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.csproj.CopyComplete
+C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.dll
+C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\obj\Debug\net6.0\refint\smr.Data.dll
+C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.pdb
+C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.genruntimeconfig.cache
+C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\obj\Debug\net6.0\ref\smr.Data.dll

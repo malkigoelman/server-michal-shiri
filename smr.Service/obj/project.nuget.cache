@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "mBKH7iCD4jmNIXh80idz5WEFuHjhED7UQTaaXxBhcdML94iIUyMb77EUcKXTCsuS4wGM48DRz6gCyQZleOeIRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moshe\\Desktop\\פרוקיט SMR\\smr.Service\\smr.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moshe\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\moshe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\moshe\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\moshe\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\moshe\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
