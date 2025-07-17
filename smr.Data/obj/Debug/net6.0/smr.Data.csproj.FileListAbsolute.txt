@@ -117,3 +117,21 @@ C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\obj\Debug\net6.0\refint\smr.Dat
 C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.pdb
 C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\obj\Debug\net6.0\smr.Data.genruntimeconfig.cache
 C:\Users\moshe\Desktop\פרוקיט SMR\smr.Data\obj\Debug\net6.0\ref\smr.Data.dll
+C:\Users\User\Downloads\C-\smr.Data\bin\Debug\net6.0\smr.Data.deps.json
+C:\Users\User\Downloads\C-\smr.Data\bin\Debug\net6.0\smr.Data.runtimeconfig.json
+C:\Users\User\Downloads\C-\smr.Data\bin\Debug\net6.0\smr.Data.dll
+C:\Users\User\Downloads\C-\smr.Data\bin\Debug\net6.0\smr.Data.pdb
+C:\Users\User\Downloads\C-\smr.Data\bin\Debug\net6.0\smr.Core.dll
+C:\Users\User\Downloads\C-\smr.Data\bin\Debug\net6.0\smr.Core.pdb
+C:\Users\User\Downloads\C-\smr.Data\obj\Debug\net6.0\smr.Data.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\C-\smr.Data\obj\Debug\net6.0\smr.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\C-\smr.Data\obj\Debug\net6.0\smr.Data.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\C-\smr.Data\obj\Debug\net6.0\smr.Data.AssemblyInfo.cs
+C:\Users\User\Downloads\C-\smr.Data\obj\Debug\net6.0\smr.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\C-\smr.Data\obj\Debug\net6.0\smr.Data.sourcelink.json
+C:\Users\User\Downloads\C-\smr.Data\obj\Debug\net6.0\smr.Data.csproj.Up2Date
+C:\Users\User\Downloads\C-\smr.Data\obj\Debug\net6.0\smr.Data.dll
+C:\Users\User\Downloads\C-\smr.Data\obj\Debug\net6.0\refint\smr.Data.dll
+C:\Users\User\Downloads\C-\smr.Data\obj\Debug\net6.0\smr.Data.pdb
+C:\Users\User\Downloads\C-\smr.Data\obj\Debug\net6.0\smr.Data.genruntimeconfig.cache
+C:\Users\User\Downloads\C-\smr.Data\obj\Debug\net6.0\ref\smr.Data.dll

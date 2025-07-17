@@ -10,11 +10,11 @@ namespace smr.Core.Services
     public interface IrenterService
     {
         Task<List<Renter>> GetListAsync();
-        Task<Renter> GetByIdAsync(string id);
+        Task<Renter> GetByIdAsync(int id);
         public Task AddAsync(Renter value);
         Task PutAsync(Renter value);
-        Task PutStatusAsync(string id, bool isActive);
-         Task<Renter> UpdateAsync (string id, Renter renter);
+        Task PutStatusAsync(int id, bool isActive);
+         Task<Renter> UpdateAsync (int id, Renter renter);
     }
    
       

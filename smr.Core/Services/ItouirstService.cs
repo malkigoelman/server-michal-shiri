@@ -10,10 +10,10 @@ namespace smr.Core.Services
     public interface ItouirstService
     {
         Task<List<Tourist>> GetListAsync();
-        Task<Tourist> GetByIdAsync(string id);
-        Task AddAsync(Tourist value);
-        Task<Tourist> PutAsync(string id, Tourist value);
-        Task PutStatusAsync(string id, bool isActive);
-        Task<Tourist> UpdateAsync(string id, Tourist tourist);
+        Task<Tourist> GetByIdAsync(int id);
+        public Task AddAsync(Tourist value);
+        Task<Tourist> PutAsync(int id, Tourist value);
+        Task PutStatusAsync(int id, bool isActive);
+        Task<Tourist> UpdateAsync(int id, Tourist tourist);
     }
 }

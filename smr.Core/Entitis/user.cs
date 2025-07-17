@@ -18,7 +18,7 @@ namespace smr.Core.Entitis
         public class User
         {
             [Key]
-            public string Id { get; set; }
+            public int Id { get; set; }
             public string UserName { get; set; }
             public string Password { get; set; } 
             public virtual UserRole Role { get; set; } // תפקיד המשתמש (משכיר/שוכר)

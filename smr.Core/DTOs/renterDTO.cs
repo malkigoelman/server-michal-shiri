@@ -8,7 +8,7 @@ namespace smr.Core.DTOs
 {
     public class renterDTO
     {
-        public string id { get; set; }
+        public int id { get; set; }
         public string CountryNameOfBusiness { get; set; }
         public bool isActive { get; set; }
     }

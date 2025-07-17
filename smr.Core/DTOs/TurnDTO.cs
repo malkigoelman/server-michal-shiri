@@ -8,8 +8,9 @@ namespace smr.Core.DTOs
 {
     public class TurnDTO
     {
-        public string id { get; set; }
+        public int id { get; set; }
         public string day { get; set; }
         public string hour { get; set; }
+        public int TouristId { get; set; }
     }
 }

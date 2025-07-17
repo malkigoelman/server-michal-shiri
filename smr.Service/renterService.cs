@@ -23,7 +23,7 @@ namespace smr.Service
         {
             return await _renterRepository.GetAllAsync();
         }
-        public async Task< Renter> GetByIdAsync(string id)
+        public async Task< Renter> GetByIdAsync(int id)
         {
             return  await _renterRepository.GetByIdAsync(id);
         }
@@ -35,11 +35,11 @@ namespace smr.Service
         {
            await _renterRepository.PutAsync(value);
         }
-        public async Task PutStatusAsync(string id, bool isActive)
+        public async Task PutStatusAsync(int id, bool isActive)
         {
           await  _renterRepository.PutStatusAsync(id, isActive);
         }
-        public  async  Task<Renter> UpdateAsync(string id,Renter renter)
+        public  async  Task<Renter> UpdateAsync(int id,Renter renter)
         {
             
           return  await _renterRepository.UpdateAsync(id, renter);

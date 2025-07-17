@@ -23,7 +23,7 @@ namespace smr.Data.Repositories
         }
 
 
-        public async Task< Tourist> GetByIdAsync(string id)
+        public async Task< Tourist> GetByIdAsync(int id)
         {
           return  await _context.tourists.FirstOrDefaultAsync(x => x.id == id);
            // await  _context.SaveChangesAsync();
@@ -35,7 +35,7 @@ namespace smr.Data.Repositories
          await   _context.SaveChangesAsync();
         }
 
-        public async   Task<Tourist>  PutAsync(string id,Tourist value)
+        public async   Task<Tourist>  PutAsync(int id,Tourist value)
         {
             var Tourist_list = await _context.tourists.ToListAsync();
             var index = Tourist_list.FindIndex(x => x.id == id);    
@@ -44,13 +44,13 @@ namespace smr.Data.Repositories
           await  _context.SaveChangesAsync();
             return Tourist_list[index];
         }
-        public async Task PutStatusAsync(string id, bool isActive)
+        public async Task PutStatusAsync(int id, bool isActive)
         {
             var tourist =  await _context.tourists.FirstOrDefaultAsync(x => x.id == id);
             tourist.isActive = isActive;
           await  _context.SaveChangesAsync();
         }
-        public  async Task<Tourist>UpdateAsync(string id, Tourist newTouirst)
+        public  async Task<Tourist>UpdateAsync(int id, Tourist newTouirst)
         {
             var touirsts = await _context.tourists.ToListAsync();
             var index = touirsts.FindIndex(x => x.id == id);

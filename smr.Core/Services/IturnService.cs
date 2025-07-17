@@ -10,10 +10,10 @@ namespace smr.Core.Services
     public interface IturnService
     {
         Task<List<Turn>> GetListAsync();
-        Task<Turn> GetByIdAsync(string id);
+        Task<Turn> GetByIdAsync(int id);
         Task AddAsync(Turn value);
-        Task PutAsync(string id, Turn value);
-         Task DeleteAsync(string id);
-        Task<Turn> UpdateAsync(string id, Turn turn);
+        Task PutAsync(int id, Turn value);
+         Task DeleteAsync(int id);
+        Task<Turn> UpdateAsync(int id, Turn turn);
     }
 }

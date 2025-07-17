@@ -1,40 +1,44 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Query.Internal;
 using smr.Core.Entitis.smr.Core.Models;
 using smr.Core.Repositories;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace smr.Data.Repositories
 {
-    public class userRepository : IuserRepository
-    { private readonly DataContext _dataContext;
+    public class UserRepository : IuserRepository
+    {
+        private readonly DataContext _dataContext;
 
-
-        public userRepository(DataContext dataContext) {  _dataContext = dataContext; }
-        public async Task<User?> GetByUserNameAsync(string userName,string password)
+        public UserRepository(DataContext dataContext)
         {
-
-            return await _dataContext.users.FirstOrDefaultAsync(u => u.UserName == userName && u.Password == password);
+            _dataContext = dataContext;
         }
+
+        public async Task<User?> GetByCredentialsAsync(int id, string userName, string password)
+        {
+            return await _dataContext.Users
+                .FirstOrDefaultAsync(u => u.Id == id && u.UserName == userName && u.Password == password);
+        }
+
+        public async Task<User?> GetByUserNameAsync(string userName, string password)
+        {
+            return await _dataContext.Users
+                .FirstOrDefaultAsync(u => u.UserName == userName && u.Password == password);
+        }
+
         public async Task<User> AddUserAsync(User user)
         {
+            var existingUser = await _dataContext.Users
+                .FirstOrDefaultAsync(u => u.UserName == user.UserName && u.Password == user.Password);
 
-
-            user =  await _dataContext.users.FirstOrDefaultAsync(u => u.UserName == user.UserName && u.Password == user.Password);
-            if (user == null)
+            if (existingUser == null)
             {
-                _dataContext.users.Add(user);
+                _dataContext.Users.Add(user);
                 await _dataContext.SaveChangesAsync();
                 return user;
             }
+
             return null;
         }
-
     }
 }
-
-

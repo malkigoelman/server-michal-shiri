@@ -10,10 +10,10 @@ namespace smr.Core.Repositories
     public interface IrenterRepository
     {
          Task<List<Renter>> GetAllAsync();
-        Task<Renter> GetByIdAsync(string id);
+        Task<Renter> GetByIdAsync(int id);
           Task  AddAsync(Renter value);
         Task PutAsync(Renter value);
-        Task PutStatusAsync(string id, bool isActive);
-        Task<Renter> UpdateAsync(string id, Renter newRenter);
+        Task PutStatusAsync(int id, bool isActive);
+        Task<Renter> UpdateAsync(int id, Renter newRenter);
     }
 }

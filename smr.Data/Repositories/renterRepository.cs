@@ -22,7 +22,7 @@ namespace smr.Data.Repositories
 
             return await _context.renters.Include(r => r.turns).ToListAsync();
         }
-        public async Task<Renter> GetByIdAsync(string id)
+        public async Task<Renter> GetByIdAsync(int id)
         {
             return await _context.renters.FirstOrDefaultAsync(x => x.id == id);
         }
@@ -41,14 +41,14 @@ namespace smr.Data.Repositories
             renter.isActive = value.isActive;
             await _context.SaveChangesAsync();
         }
-        public async Task PutStatusAsync(string id, bool isActive)
+        public async Task PutStatusAsync(int id, bool isActive)
         {
             var renter = await _context.renters.FirstOrDefaultAsync(x => x.id == id);
             renter.isActive = isActive;
             await _context.SaveChangesAsync();
 
         }
-        public async Task<Renter> UpdateAsync(string id, Renter newRenter)
+        public async Task<Renter> UpdateAsync(int id, Renter newRenter)
         {
             var renters = await _context.renters.ToListAsync();
            var index = renters.FindIndex(x => x.id == id);

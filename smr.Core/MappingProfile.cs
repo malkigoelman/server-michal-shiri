@@ -15,6 +15,7 @@ namespace smr.Core
         {
             CreateMap<Renter, renterDTO>().ReverseMap();
             CreateMap<Tourist, touirstDTO>().ReverseMap();
+            CreateMap<Turn,TurnDTO>().ReverseMap();
         }
     }
 }

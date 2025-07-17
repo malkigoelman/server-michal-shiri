@@ -81,3 +81,16 @@ C:\Users\moshe\Desktop\פרוקיט SMR\smr.Core\obj\Debug\net6.0\smr.Core.dll
 C:\Users\moshe\Desktop\פרוקיט SMR\smr.Core\obj\Debug\net6.0\refint\smr.Core.dll
 C:\Users\moshe\Desktop\פרוקיט SMR\smr.Core\obj\Debug\net6.0\smr.Core.pdb
 C:\Users\moshe\Desktop\פרוקיט SMR\smr.Core\obj\Debug\net6.0\ref\smr.Core.dll
+C:\Users\User\Downloads\C-\smr.Core\bin\Debug\net6.0\smr.Core.deps.json
+C:\Users\User\Downloads\C-\smr.Core\bin\Debug\net6.0\smr.Core.dll
+C:\Users\User\Downloads\C-\smr.Core\bin\Debug\net6.0\smr.Core.pdb
+C:\Users\User\Downloads\C-\smr.Core\obj\Debug\net6.0\smr.Core.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\C-\smr.Core\obj\Debug\net6.0\smr.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\C-\smr.Core\obj\Debug\net6.0\smr.Core.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\C-\smr.Core\obj\Debug\net6.0\smr.Core.AssemblyInfo.cs
+C:\Users\User\Downloads\C-\smr.Core\obj\Debug\net6.0\smr.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\C-\smr.Core\obj\Debug\net6.0\smr.Core.sourcelink.json
+C:\Users\User\Downloads\C-\smr.Core\obj\Debug\net6.0\smr.Core.dll
+C:\Users\User\Downloads\C-\smr.Core\obj\Debug\net6.0\refint\smr.Core.dll
+C:\Users\User\Downloads\C-\smr.Core\obj\Debug\net6.0\smr.Core.pdb
+C:\Users\User\Downloads\C-\smr.Core\obj\Debug\net6.0\ref\smr.Core.dll

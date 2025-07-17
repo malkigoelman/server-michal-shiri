@@ -21,7 +21,7 @@ namespace smr.Data.Repositories
         {
             return await _context.turns.ToListAsync();
         }
-        public async Task<Turn> GetByIdAsync(string id)
+        public async Task<Turn> GetByIdAsync(int id)
         {
             var turn = await _context.turns.FirstOrDefaultAsync(x => x.id == id);
             await _context.SaveChangesAsync();
@@ -33,7 +33,7 @@ namespace smr.Data.Repositories
             //  await  _context.SaveChangesAsync();
         }
 
-        public async Task PutAsync(string id, Turn value)
+        public async Task PutAsync(int id, Turn value)
         {
             var turn = await _context.turns.FirstOrDefaultAsync(x => x.id == id);
             turn.id = value.id;
@@ -41,13 +41,13 @@ namespace smr.Data.Repositories
             turn.hour = value.hour;
             await _context.SaveChangesAsync();
         }
-        public async Task DeleteAsync(string id)
+        public async Task DeleteAsync(int id)
         {
             var turn = await _context.turns.FirstOrDefaultAsync(e => e.id == id);
             _context.turns.Remove(turn);
             await _context.SaveChangesAsync();
         }
-        public async Task<Turn> UpdateAsync(string id, Turn newTurn)
+        public async Task<Turn> UpdateAsync(int id, Turn newTurn)
         {
             var turns = await _context.turns.ToListAsync();
             var index = turns.FindIndex(x => x.id == id);

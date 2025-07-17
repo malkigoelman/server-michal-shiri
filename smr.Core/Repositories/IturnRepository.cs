@@ -10,10 +10,10 @@ namespace smr.Core.Repositories
     public interface IturnRepository
     {
         Task<List<Turn>> GetAllAsync();
-        Task<Turn> GetByIdAsync(string id);
+        Task<Turn> GetByIdAsync(int id);
          Task AddAsync(Turn value);
-        Task PutAsync(string id, Turn value);
-   Task DeleteAsync(string id);
-          Task<Turn> UpdateAsync(string id, Turn newTurn);
+        Task PutAsync(int id, Turn value);
+   Task DeleteAsync(int id);
+          Task<Turn> UpdateAsync(int id, Turn newTurn);
     }
 }

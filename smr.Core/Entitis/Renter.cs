@@ -7,12 +7,13 @@ namespace smr.Entitis
     public class Renter
     {
         [Key]
-        public string id { get; set; }
+        public int id { get; set; }
         public string CountryNameOfBusiness { get; set; }
         public bool isActive { get; set; }
-        public  virtual List<Turn> turns { get; set; }
-        [ForeignKey("User")]
-        public string Userid { get; set; }
+        public virtual List<Turn> turns { get; set; }
+        [ForeignKey(nameof(user))]
+        public int Userid { get; set; }
         public virtual User user { get; set; }
+
     }
 }

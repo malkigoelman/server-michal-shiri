@@ -22,7 +22,7 @@ namespace smr.Service
         {
             return await _touirstRepository.GetAllAsync();
         }
-        public async Task<Tourist> GetByIdAsync(string id)
+        public async Task<Tourist> GetByIdAsync(int id)
         {
             return await _touirstRepository.GetByIdAsync(id);
         }
@@ -30,16 +30,16 @@ namespace smr.Service
         {
            await _touirstRepository.AddAsync(value);
         }
-        public async Task<Tourist> PutAsync(string id,Tourist value)
+        public async Task<Tourist> PutAsync(int id,Tourist value)
         {
            return  await _touirstRepository.PutAsync(id,value);
         }
-        public async Task PutStatusAsync(string id, bool isActive)
+        public async Task PutStatusAsync(int id, bool isActive)
         {
              await _touirstRepository.PutStatusAsync(id, isActive);
         }
 
-        public async Task<Tourist> UpdateAsync(string id, Tourist touirst)
+        public async Task<Tourist> UpdateAsync(int id, Tourist touirst)
         {
             return  await _touirstRepository.UpdateAsync(id, touirst);
         }

@@ -10,10 +10,10 @@ namespace smr.Core.Repositories
     public interface ItouirstRepository
     {
         Task<List<Tourist>> GetAllAsync();
-        Task<Tourist> GetByIdAsync(string id);
+        Task<Tourist> GetByIdAsync(int id);
         Task AddAsync(Tourist value);
-      Task< Tourist> PutAsync(string id, Tourist value);
-        Task PutStatusAsync(string id, bool isActive);
-    Task <Tourist> UpdateAsync(string id, Tourist newTouirst);
+      Task< Tourist> PutAsync(int id, Tourist value);
+        Task PutStatusAsync(int id, bool isActive);
+    Task <Tourist> UpdateAsync(int id, Tourist newTouirst);
     }
 }

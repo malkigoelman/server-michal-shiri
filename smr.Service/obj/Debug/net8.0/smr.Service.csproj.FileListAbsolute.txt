@@ -1,0 +1,16 @@
+C:\Users\User\Downloads\C-\smr.Service\bin\Debug\net8.0\smr.Service.deps.json
+C:\Users\User\Downloads\C-\smr.Service\bin\Debug\net8.0\smr.Service.dll
+C:\Users\User\Downloads\C-\smr.Service\bin\Debug\net8.0\smr.Service.pdb
+C:\Users\User\Downloads\C-\smr.Service\bin\Debug\net8.0\smr.Core.dll
+C:\Users\User\Downloads\C-\smr.Service\bin\Debug\net8.0\smr.Core.pdb
+C:\Users\User\Downloads\C-\smr.Service\obj\Debug\net8.0\smr.Service.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\C-\smr.Service\obj\Debug\net8.0\smr.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\C-\smr.Service\obj\Debug\net8.0\smr.Service.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\C-\smr.Service\obj\Debug\net8.0\smr.Service.AssemblyInfo.cs
+C:\Users\User\Downloads\C-\smr.Service\obj\Debug\net8.0\smr.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\C-\smr.Service\obj\Debug\net8.0\smr.Service.sourcelink.json
+C:\Users\User\Downloads\C-\smr.Service\obj\Debug\net8.0\smr.Serv.B7BD3AFF.Up2Date
+C:\Users\User\Downloads\C-\smr.Service\obj\Debug\net8.0\smr.Service.dll
+C:\Users\User\Downloads\C-\smr.Service\obj\Debug\net8.0\refint\smr.Service.dll
+C:\Users\User\Downloads\C-\smr.Service\obj\Debug\net8.0\smr.Service.pdb
+C:\Users\User\Downloads\C-\smr.Service\obj\Debug\net8.0\ref\smr.Service.dll

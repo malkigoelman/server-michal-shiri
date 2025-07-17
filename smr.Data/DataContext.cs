@@ -11,7 +11,7 @@ namespace smr
         public DbSet<Renter> renters { get; set; }
         public DbSet<Tourist> tourists { get; set; }
         public DbSet<Turn> turns { get; set; }
-        public DbSet<User>users{ get; set; }
+        public DbSet<User>Users{ get; set; }
 
     private readonly IConfiguration _configuration;
 
@@ -36,6 +36,16 @@ namespace smr
                     v => v.ToString(),
                     v => Enum.Parse<UserRole>(v));
             });
+            modelBuilder.Entity<Renter>()
+    .Property(r => r.id)
+    .ValueGeneratedOnAdd(); // חשוב מאוד
+            modelBuilder.Entity<Tourist>()
+         .Property(r => r.id)
+         .ValueGeneratedOnAdd(); // חשוב מאוד
+            modelBuilder.Entity<Turn>()
+         .Property(r => r.id)
+         .ValueGeneratedOnAdd(); // חשוב מאוד
+
         }
     }
 

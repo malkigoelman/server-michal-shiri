@@ -22,7 +22,7 @@ namespace smr.Service
         {
             return await  _turnRepository.GetAllAsync();
         }
-        public async   Task<Turn> GetByIdAsync(string id)
+        public async   Task<Turn> GetByIdAsync(int id)
         {
             return await _turnRepository.GetByIdAsync(id);
         }
@@ -30,15 +30,15 @@ namespace smr.Service
         {
            await  _turnRepository.AddAsync(value);
         }
-        public async Task PutAsync(string id, Turn value)
+        public async Task PutAsync(int id, Turn value)
         {
            await _turnRepository.PutAsync(id, value);
         }
-        public async Task DeleteAsync(string id)
+        public async Task DeleteAsync(int id)
         {
            await _turnRepository.DeleteAsync(id);
         }
-        public async Task< Turn> UpdateAsync(string id, Turn turn)
+        public async Task< Turn> UpdateAsync(int id, Turn turn)
         {
             return await _turnRepository.UpdateAsync(id, turn);
         }

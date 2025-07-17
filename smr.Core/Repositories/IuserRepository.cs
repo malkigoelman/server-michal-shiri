@@ -1,18 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using smr.Core.Entitis.smr.Core.Models;
 using System.Threading.Tasks;
- using global::smr.Core.Entitis.smr.Core.Models;
-//using smr.Core.Models;
 
-    namespace smr.Core.Repositories
+namespace smr.Core.Repositories
+{
+    public interface IuserRepository
     {
-        public interface IuserRepository
-        {
-            Task<User> AddUserAsync(User user);
+        Task<User> AddUserAsync(User user);
         Task<User?> GetByUserNameAsync(string userName, string password);
-        }
+        Task<User?> GetByCredentialsAsync(int id, string userName, string password);
     }
-
-
+}
