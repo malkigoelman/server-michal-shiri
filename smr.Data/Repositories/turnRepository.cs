@@ -30,7 +30,7 @@ namespace smr.Data.Repositories
         public async Task AddAsync(Turn value)
         {
             await _context.turns.AddAsync(value);
-            //  await  _context.SaveChangesAsync();
+            await  _context.SaveChangesAsync();
         }
 
         public async Task PutAsync(int id, Turn value)
